@@ -14,7 +14,7 @@ Running Instructions
 Download the repository:
 sh
 Copy code
-git clone https://github.com/your-account/disneyland-analysis.git
+git clone https://github.com/your-account/disneyland-analysis.git](https://github.com/JuSp12/DisneylandData.git
 Navigate to the project directory:
 sh
 Copy code
