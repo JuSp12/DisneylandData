@@ -1,0 +1,12 @@
+Number of reviews Hongkong: 9617
+Number of reviews California: 19406
+Number of reviews Paris: 13629
+Number of positive reviews Hongkong: 7744
+Number of positive reviews California: 16499
+Number of positive reviews Paris: 9674
+Average review score Hongkong: 4.2
+Average review score California: 4.41
+Average review score Paris: 3.96
+Number of countries that have reviewed Hongkong: 115
+Number of countries that have reviewed California: 111
+Number of countries that have reviewed Paris: 132
